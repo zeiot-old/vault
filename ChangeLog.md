@@ -1,11 +1,11 @@
 RPI Vault ChangeLog
 =================================
 
-# Version 1.1.0 (12/17/2018)
+# Version 1.0.0 (12/17/2018)
 
 - Vault: 1.0.0
 
-# Version 1.0.0 (26/05/2018)
+# Version 0.3.0 (26/05/2018)
 
 - Support for multi arch ARM and ARM64
 - Update to Vault 0.10.1
