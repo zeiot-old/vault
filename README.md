@@ -1,5 +1,16 @@
 # RPI Vault
 
+*DEPRECATED*
+
+See:
+
+    $ manifest-tool inspect vault
+
+
+
+--------------------------------------------------
+
+
 * Master : [![coverage report](https://gitlab.com/zeiot/rpi-vault/badges/master/coverage.svg)](https://gitlab.com/zeiot/rpi-vault/commits/master)
 
 Docker image of [Vault][] to use on a [Raspberry PI][].
